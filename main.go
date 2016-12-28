@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/broucz/tmp-go-arch-test/domain/model/user"
+	"github.com/broucz/tmp-go-arch-test/domain/user"
 	"github.com/broucz/tmp-go-arch-test/impl/memory"
 )
 
